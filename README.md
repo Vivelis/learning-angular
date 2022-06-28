@@ -11,3 +11,17 @@
 
 ### Angular
 * [Developer guides](https://angular.io/guide/developer-guide-overview)
+
+## Commands
+#### Create new project.
+```bash
+ng new
+```
+#### Generate new component.
+```
+ng generate component componentName
+```
+#### Compile and lauch app.
+```
+ng serve
+```
